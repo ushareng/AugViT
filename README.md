@@ -1,5 +1,5 @@
 # AugViT
-TensorFlow Implementation of NeurIPS 2021 paper, Augmented Shortcuts for Vision Transformers .
+keras Implementation of NeurIPS 2021 paper, Augmented Shortcuts for Vision Transformers .
 
 Abstract from Paper :
 
