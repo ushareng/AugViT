@@ -1,5 +1,5 @@
 # AugViT
-keras Implementation of NeurIPS 2021 paper, Augmented Shortcuts for Vision Transformers .
+Keras Implementation of NeurIPS 2021 paper, Augmented Shortcuts for Vision Transformers .
 
 Abstract from Paper :
 
